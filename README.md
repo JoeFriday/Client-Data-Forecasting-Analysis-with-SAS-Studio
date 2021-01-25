@@ -4,7 +4,9 @@ It was showing targeted on what programs and invited how many applicants since 2
 
 ![b362820671c7464461a5664c513d7c6](https://user-images.githubusercontent.com/72532551/105650227-18839200-5e81-11eb-94ea-b802d059d956.png)
 
-In 2020 the Canadian Experience Class (CEC) and the Provincial Nominee Program (PNP) started being solely targeted.
+In 2020 the Canadian Experience Class (CEC) and the Provincial Nominee Program (PNP) started being solely targeted. 
+
+Under COVID-19, Express Entry's effect started solely and regularly targeted CEC with a relatively low cutoff score. Applicants have Canadian Post Secondary credential and are living in Canada. International students in Canada will have an excellent opportunity to convert into Canadian permenant residence.
 
 I am presenting the trend of the cutoff score for each round of invitation. 
 
@@ -12,28 +14,22 @@ I am presenting the trend of the cutoff score for each round of invitation.
 
 CEC's cutoff score is lower than No Program Specified's, which means applicants with Canadian study experience now have more chances to be invited than before.
 
-It shows how many study permit holders were in Canada and the percentage of Post Secondary study from 2000 to 2019.
+It shows how many study permit holders were in Canada and the percentage of Post Secondary study from 2000 to 2019. Canadian international students have boosted over the past 20 years and Post Secondary students' ratio has reached a high level.
 
 ![7be69bcce383f53ae9ecc73394033e7](https://user-images.githubusercontent.com/72532551/105650252-33560680-5e81-11eb-9e77-098923f3f081.png)
 
-Canadian international students have boosted over the past 20 years and Post Secondary students' ratio has reached a high level.
+The study permit holders in Canada boosted over 20 years, and the percentage of the Post Secondary exceeded 3/4 in 2019. And those international students were or will be the immigrant applicants in Canadian Experience Class.
 
 I figure out the top 3 designated provinces or territories of study permit holders for Post Secondary credential.
 
 ![c1ebcce80dc6aa8eb3b4ddea1e78789](https://user-images.githubusercontent.com/72532551/105650260-3f41c880-5e81-11eb-8c3f-3da7b42e8bd5.png)
 
-Ontario, British Columbia, and Quebec were the three provinces with most international students studying for Post Secondary in the recent ten years. 
+Ontario, British Columbia, and Quebec were the three provinces with most international students studying for Post Secondary in the recent ten years. Ontario is the dominant destination for international students studying in Post Secondary. The number of Ontario in 2019 even exceeded the number of British Columbia, and Quebec combined.
 
 I am analyzing the country of citizenship of Canadian study permit holders in 2019.
 
 ![46fdde2b5aedeccb44c44da5f7869e3](https://user-images.githubusercontent.com/72532551/105650271-48329a00-5e81-11eb-9046-2ff7c1dac7e6.png)
 
-Find out that India is ranked the first origin country for Canadian international students, China is the second.  
-
-Under COVID-19, Express Entry's effect started solely and regularly targeted CEC with a relatively low cutoff score. Applicants have Canadian Post Secondary credential and are living in Canada. International students in Canada will have an excellent opportunity to convert into Canadian permenant residence. 
-
-The study permit holders in Canada boosted over 20 years, and the percentage of the Post Secondary exceeded 3/4 in 2019. And those international students were or will be the immigrant applicants in Canadian Experience Class. 
-
-Ontario is the dominant destination for international students studying in Post Secondary. The number of Ontario in 2019 even exceeded the number of British Columbia, and Quebec combined. 
+Find out that India is ranked the first origin country for Canadian international students, China is the second.     
 
 Chinese international students accounted for 1/5 of the total study permit holders in Canada. 
