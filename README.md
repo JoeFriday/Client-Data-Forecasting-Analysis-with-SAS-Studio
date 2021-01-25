@@ -1,7 +1,8 @@
+
 This report is about Canadian immigration focusing on the skilled worker stream and study permit holders. It analyzed the invitations and scores of Express Entry system and the international students in various study level. The datasets are available on IRCC website. 
 
 Showing what programs are being targeted and how many applicants are being invited since 2015.
-图
+file:///C:/Users/jx199/Desktop/83adf7ad35e95e7c61635a5421be46e.png
 In 2020 the Canadian Experience Class (CEC) and the Provincial Nominee Program (PNP) started being solely targeted.
 
 Presenting the trend of cutoff score for each round of invitaion. 
