@@ -1,4 +1,4 @@
-In this scenario, I analyzed Canadian immigration data focusing on the skilled worker stream and Canadian international students data on study permit holders. I visualized the Express Entry system's invitations and scores since 2015 and the study permit holders in Canada from 2000 to 2019. The excel datafiles are available on the IRCC website. 
+In this scenario, I analyzed Canadian immigration data focusing on the skilled worker stream and Canadian international students data on study permit holders. I visualized the Express Entry system's invitations and scores since 2015 and the study permit holders in Canada from 2000 to 2019. The raw data is available on the IRCC website. 
 
 # Show Express Entry targeted on what programs and invited how many applicants since 2015.
 
