@@ -1,6 +1,6 @@
 In this project, I analyzed Canadian immigration data focusing on the skilled worker stream and study permit holders. Visualized the invitations and scores of Express Entry system since 2015, and the number of international students in Canada from 2000 to 2019. All data is available on the IRCC website. 
 
-# Show Express Entry targeted on what programs and invited how many applicants since 2015.
+## Show Express Entry targeted on what programs and invited how many applicants since 2015.
 
 ![b362820671c7464461a5664c513d7c6](https://user-images.githubusercontent.com/72532551/105650227-18839200-5e81-11eb-94ea-b802d059d956.png)
 
