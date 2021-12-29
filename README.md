@@ -6,7 +6,7 @@ In this project, I analyzed Canadian immigration data focusing on the skilled wo
 
 In 2020 the Canadian Experience Class (CEC) and the Provincial Nominee Program (PNP) started being solely targeted. 
 
-Under COVID-19, Express Entry's effect started solely and regularly targeted CEC, with a relatively low cutoff score, applicants have Canadian Post Secondary credential and are living in Canada.
+Under COVID-19, Express Entry's effect started solely and regularly targeted CEC, with a relatively low cutoff score, those applicants have Canadian Post Secondary credential and are living in Canada.
 
 # Present the trend of the cutoff score for each round of invitation. 
 
