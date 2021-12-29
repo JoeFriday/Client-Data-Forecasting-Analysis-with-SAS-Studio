@@ -8,25 +8,25 @@ In 2020 the Canadian Experience Class (CEC) and the Provincial Nominee Program (
 
 Under COVID-19, Express Entry's effect started solely and regularly targeted CEC, with a relatively low cutoff score, those applicants have Canadian Post Secondary credential and are living in Canada.
 
-# Present the trend of the cutoff score for each round of invitation. 
+## Present the trend of the cutoff score for each round of invitation. 
 
 ![c0dca03e938c14ae9727cd321e8182c](https://user-images.githubusercontent.com/72532551/105650241-2507ea80-5e81-11eb-9da5-2349438025cf.png)
 
 CEC's cutoff score is lower than No Program Specified's. Applicants with Canadian study experience now have more chances to be invited.
 
-# Perform how many study permit holders were in Canada and the percentage of Post Secondary study from 2000 to 2019.
+## Perform how many study permit holders were in Canada and the percentage of Post Secondary study from 2000 to 2019.
 
 ![7be69bcce383f53ae9ecc73394033e7](https://user-images.githubusercontent.com/72532551/105650252-33560680-5e81-11eb-9e77-098923f3f081.png)
 
 The study permit holders in Canada boosted over 20 years. The percentage of the Post Secondary exceeded 3/4 in 2019.
 
-# Present the top 3 designated provinces/territories of study permit holders for Post Secondary credential.
+## Present the top 3 designated provinces/territories of study permit holders for Post Secondary credential.
 
 ![c1ebcce80dc6aa8eb3b4ddea1e78789](https://user-images.githubusercontent.com/72532551/105650260-3f41c880-5e81-11eb-8c3f-3da7b42e8bd5.png)
 
 Ontario, British Columbia, and Quebec were the three provinces with most international students studying for Post Secondary in the recent ten years. Ontario is the dominant destination for international students studying in Post Secondary. The number of Ontario in 2019 even exceeded the number of British Columbia, and Quebec combined.
 
-# Display the country of citizenship of Canadian study permit holders in 2019.
+## Display the country of citizenship of Canadian study permit holders in 2019.
 
 ![46fdde2b5aedeccb44c44da5f7869e3](https://user-images.githubusercontent.com/72532551/105650271-48329a00-5e81-11eb-9046-2ff7c1dac7e6.png)
 
